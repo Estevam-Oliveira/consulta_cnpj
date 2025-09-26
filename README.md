@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # consulta_cnpj
 Script para pesquisar dados de cartão CNPJ dos dados aberto da receita federal do Brasil.
-=======
 ## README
 # Consulta CNPJ em Batch
 Ferramenta Python para processar arquivos oficiais da Receita Federal e filtrar dados empresariais por lista de CNPJs básicos, consolidando resultados em formatos Parquet e CSV para análises eficientes.
@@ -80,4 +78,3 @@ O script gera o arquivo applog.log com o fluxo de processamento e eventuais erro
 
 # Licença
 MIT – Veja o arquivo LICENSE para mais detalhes.
->>>>>>> 13aba0e (Commit Start Project)
