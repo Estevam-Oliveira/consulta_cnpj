@@ -2,6 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
+<<<<<<< HEAD
+=======
+*.pyc
+*.pyo
+*.pyd
+>>>>>>> 13aba0e (Commit Start Project)
 
 # C extensions
 *.so
@@ -143,6 +149,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
+=======
+*.swp
+*.tmp
+*.bak
+*~
+>>>>>>> 13aba0e (Commit Start Project)
 
 # Spyder project settings
 .spyderproject
@@ -205,3 +218,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
+=======
+
+# Logs
+applog.log
+
+# Arquivos de dados e resultados
+PARQUETFILTRADO/
+*.parquet
+*.csv
+
+# Pastas de dados brutos (ajuste o nome se necessário)
+dados/
+
+
+>>>>>>> 13aba0e (Commit Start Project)
